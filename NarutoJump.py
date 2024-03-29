@@ -14,7 +14,7 @@ tela_altura = 600
 
 #criando a janela do jogo
 tela = pygame.display.set_mode((tela_largura, tela_altura))
-pygame.display.set_caption('JumpForever')
+pygame.display.set_caption('Naruto Jump')
 
 #definindo o fps
 clock = pygame.time.Clock()
